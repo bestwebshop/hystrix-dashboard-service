@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>tech.bestwebshop.api</groupId>
-    <artifactId>monitor-dashboard</artifactId>
+    <artifactId>hystrix-dashboard-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>monitor-dashboard</name>
-    <description>Demo project for Spring Boot</description>
+    <name>hystrix-dashboard-service</name>
+    <description>Hystrix monitoring dashboard for the webshop.</description>
 
     <properties>
         <java.version>11</java.version>
